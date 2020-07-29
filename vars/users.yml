@@ -1,0 +1,9 @@
+users:
+  - username: user1
+    password: # hashed password with command: mkpasswd -m sha-512
+    state: present
+    remove: false
+  - username: user2
+    password: # hashed password with command: mkpasswd -m sha-512
+    state: present
+    remove: false
