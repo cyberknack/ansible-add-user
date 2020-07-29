@@ -6,3 +6,10 @@ None.
 see `vars/users.yml`
 # Dependencies
 None.
+# Example Playbook
+```
+- host: all
+  role:
+   - ansible-add-user
+```
+
