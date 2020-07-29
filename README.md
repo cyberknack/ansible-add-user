@@ -4,3 +4,5 @@ Add users and their public-key in linux(debian, redhat) remote hosts
 None
 # Role Variables
 see `vars/users.yml`
+# Dependencies
+None
