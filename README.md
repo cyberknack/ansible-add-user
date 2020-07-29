@@ -1,2 +1,2 @@
 # ansible-add-user
-Add ssh user in linux hosts
+Add users and their public-key in linux(debian, redhat) remote hosts
