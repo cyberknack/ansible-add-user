@@ -3,7 +3,7 @@ Add or remove users and their public-key in linux(debian, redhat) remote hosts.
 To remove users and their public-key from remote host change the value of `state` and `remove` in `vars/users.yml`.  
 ```
 state: absent
-remove:true
+remove: true
 ```
 # Requirements
 None.
