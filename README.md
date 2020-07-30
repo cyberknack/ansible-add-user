@@ -14,7 +14,7 @@ None.
 # Example Playbook
 ```
 - host: all
-  role:
+  roles:
    - ansible-add-user
 ```
 # License
